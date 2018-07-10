@@ -1,0 +1,19 @@
+{
+  "name": "async",
+  "version": "1.0.0",
+  "description": "Author: Shi-Hao Hong (@shihaohong)",
+  "main": "async-all-word-count.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdl08001/async-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdl08001/async-js/issues"
+  },
+  "homepage": "https://github.com/cdl08001/async-js#readme"
+}
